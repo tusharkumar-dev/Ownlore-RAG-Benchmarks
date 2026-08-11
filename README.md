@@ -1,6 +1,6 @@
 # OwnLore-RAG Benchmarks
 
-Question sets used to evaluate the retrieval and answer-generation quality of [OwnLore-RAG](https://github.com/yourusername/ownlore-rag) — an open-source RAG (Retrieval-Augmented Generation) assistant.
+Question sets used to evaluate the retrieval and answer-generation quality of [OwnLore-RAG](https://github.com/tusharkumar-dev/ownlore-rag) — an open-source RAG (Retrieval-Augmented Generation) assistant.
 
 This repository exists so the evaluation results published in the main OwnLore-RAG README can be independently reproduced rather than taken at face value.
 
@@ -48,7 +48,7 @@ Each file name corresponds to the source book the questions were written against
 
 ## How These Are Used
 
-Each question is run through the OwnLore-RAG pipeline against the corresponding source book, and the generated answer is graded for correctness, completeness, relevance, and hallucination. Full methodology and results are documented in the [OwnLore-RAG README](https://github.com/yourusername/ownlore-rag#evaluation) under the Evaluation section.
+Each question is run through the OwnLore-RAG pipeline against the corresponding source book, and the generated answer is graded for correctness, completeness, relevance, and hallucination. Full methodology and results are documented in the [OwnLore-RAG README](https://github.com/tusharkumar-dev/ownlore-rag#evaluation) under the Evaluation section.
 
 ## Reproducing the Evaluation
 
